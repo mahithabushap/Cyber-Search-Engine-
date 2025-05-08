@@ -1,0 +1,251 @@
+Email,Name,Date,Breach Name,Exposed Data,Source
+user1@example.com,User 1,2022-08-11,FinancePlus,"Addresses, Emails, Usernames",https://dataexposure.com
+user2@example.com,User 2,2019-07-24,FinancePlus,Phone Numbers,https://cyberalert.net
+user3@example.com,User 3,2015-04-26,EmailPro,"Addresses, Passwords",https://cyberalert.net
+user4@example.com,User 4,2020-03-04,WebPortal,"Emails, Phone Numbers",https://leaksource.info
+user5@example.com,User 5,2022-08-15,FinancePlus,Usernames,https://dataexposure.com
+user6@example.com,User 6,2023-08-24,CryptoEx,"Personal Information, Passwords, Addresses",https://dataexposure.com
+user7@example.com,User 7,2016-08-22,WebPortal,"Usernames, Addresses",https://securebreach.org
+user8@example.com,User 8,2021-02-09,OnlineEdu,"Usernames, Passwords, Emails",https://leaksource.info
+user9@example.com,User 9,2022-09-13,OnlineEdu,Passwords,https://leaksource.info
+user10@example.com,User 10,2022-12-03,FastShopping,Usernames,https://dataexposure.com
+user11@example.com,User 11,2015-07-08,EmailPro,"Addresses, Credit Card Info",https://securebreach.org
+user12@example.com,User 12,2022-10-07,EmailPro,Addresses,https://dataexposure.com
+user13@example.com,User 13,2020-08-06,FinancePlus,Usernames,https://leaksource.info
+user14@example.com,User 14,2015-08-06,FastShopping,"Credit Card Info, Usernames, Emails",https://dataexposure.com
+user15@example.com,User 15,2022-10-02,HealthSecure,"Emails, Credit Card Info",https://securebreach.org
+user16@example.com,User 16,2018-07-21,WebPortal,"Passwords, Personal Information",https://dataexposure.com
+user17@example.com,User 17,2016-07-08,FinancePlus,"Usernames, Credit Card Info",https://cyberalert.net
+user18@example.com,User 18,2019-04-11,HealthSecure,"Passwords, Addresses, Credit Card Info",https://cyberalert.net
+user19@example.com,User 19,2023-06-12,EmailPro,"Emails, Phone Numbers, Addresses",https://leaksource.info
+user20@example.com,User 20,2018-05-12,OnlineEdu,"Personal Information, Credit Card Info",https://breachdata.example.com
+user21@example.com,User 21,2016-11-06,FastShopping,Personal Information,https://dataexposure.com
+user22@example.com,User 22,2022-10-24,BankSecure,Usernames,https://leaksource.info
+user23@example.com,User 23,2020-07-23,HealthSecure,"Phone Numbers, Credit Card Info",https://securebreach.org
+user24@example.com,User 24,2016-06-12,BankSecure,Addresses,https://dataexposure.com
+user25@example.com,User 25,2022-05-28,FastShopping,Emails,https://cyberalert.net
+user26@example.com,User 26,2019-02-08,CryptoEx,"Addresses, Passwords, Emails",https://leaksource.info
+user27@example.com,User 27,2020-03-28,HealthSecure,"Credit Card Info, Emails",https://breachdata.example.com
+user28@example.com,User 28,2016-03-14,CryptoEx,Personal Information,https://dataexposure.com
+user29@example.com,User 29,2015-04-19,OnlineEdu,"Emails, Addresses, Credit Card Info",https://securebreach.org
+user30@example.com,User 30,2023-02-14,FinancePlus,Usernames,https://breachdata.example.com
+user31@example.com,User 31,2023-05-06,WebPortal,"Addresses, Emails, Personal Information",https://breachdata.example.com
+user32@example.com,User 32,2022-09-11,HealthSecure,"Addresses, Passwords, Emails",https://breachdata.example.com
+user33@example.com,User 33,2020-11-01,WebPortal,"Personal Information, Usernames",https://cyberalert.net
+user34@example.com,User 34,2022-09-18,FinancePlus,"Passwords, Phone Numbers",https://leaksource.info
+user35@example.com,User 35,2015-01-17,WebPortal,"Credit Card Info, Personal Information",https://securebreach.org
+user36@example.com,User 36,2016-10-23,EmailPro,"Personal Information, Usernames",https://securebreach.org
+user37@example.com,User 37,2022-06-14,OnlineEdu,"Addresses, Personal Information",https://securebreach.org
+user38@example.com,User 38,2018-06-14,DataHub,"Phone Numbers, Personal Information, Passwords",https://breachdata.example.com
+user39@example.com,User 39,2023-01-06,SocialMediaX,Emails,https://cyberalert.net
+user40@example.com,User 40,2020-12-05,SocialMediaX,Credit Card Info,https://cyberalert.net
+user41@example.com,User 41,2022-12-03,SocialMediaX,"Credit Card Info, Emails, Passwords",https://breachdata.example.com
+user42@example.com,User 42,2020-02-22,OnlineEdu,"Passwords, Emails, Credit Card Info",https://breachdata.example.com
+user43@example.com,User 43,2015-05-25,WebPortal,"Emails, Addresses",https://leaksource.info
+user44@example.com,User 44,2019-12-25,OnlineEdu,"Credit Card Info, Passwords, Personal Information",https://leaksource.info
+user45@example.com,User 45,2018-06-24,BankSecure,Credit Card Info,https://dataexposure.com
+user46@example.com,User 46,2016-10-13,WebPortal,"Credit Card Info, Emails",https://leaksource.info
+user47@example.com,User 47,2015-06-30,DataHub,Usernames,https://leaksource.info
+user48@example.com,User 48,2015-04-28,WebPortal,"Addresses, Usernames",https://leaksource.info
+user49@example.com,User 49,2018-05-10,SocialMediaX,"Addresses, Phone Numbers, Personal Information",https://dataexposure.com
+user50@example.com,User 50,2021-09-10,HealthSecure,"Passwords, Usernames",https://securebreach.org
+user51@example.com,User 51,2018-10-28,CryptoEx,Usernames,https://cyberalert.net
+user52@example.com,User 52,2017-01-08,DataHub,"Passwords, Addresses, Usernames",https://securebreach.org
+user53@example.com,User 53,2018-03-31,CryptoEx,"Credit Card Info, Emails",https://breachdata.example.com
+user54@example.com,User 54,2023-03-16,CryptoEx,"Personal Information, Phone Numbers",https://dataexposure.com
+user55@example.com,User 55,2020-12-02,CryptoEx,"Addresses, Phone Numbers",https://securebreach.org
+user56@example.com,User 56,2021-12-25,SocialMediaX,"Passwords, Phone Numbers",https://cyberalert.net
+user57@example.com,User 57,2015-05-01,SocialMediaX,"Personal Information, Credit Card Info, Passwords",https://breachdata.example.com
+user58@example.com,User 58,2016-08-13,HealthSecure,"Usernames, Credit Card Info, Phone Numbers",https://breachdata.example.com
+user59@example.com,User 59,2017-01-02,DataHub,"Credit Card Info, Passwords, Emails",https://cyberalert.net
+user60@example.com,User 60,2021-06-12,HealthSecure,"Phone Numbers, Addresses, Credit Card Info",https://cyberalert.net
+user61@example.com,User 61,2019-06-04,HealthSecure,"Personal Information, Addresses",https://cyberalert.net
+user62@example.com,User 62,2021-10-21,DataHub,"Usernames, Addresses",https://securebreach.org
+user63@example.com,User 63,2015-01-19,BankSecure,Addresses,https://cyberalert.net
+user64@example.com,User 64,2021-09-14,SocialMediaX,"Usernames, Personal Information, Credit Card Info",https://cyberalert.net
+user65@example.com,User 65,2023-08-08,WebPortal,"Phone Numbers, Credit Card Info",https://dataexposure.com
+user66@example.com,User 66,2015-10-09,HealthSecure,Emails,https://breachdata.example.com
+user67@example.com,User 67,2019-03-30,HealthSecure,"Passwords, Addresses, Personal Information",https://securebreach.org
+user68@example.com,User 68,2020-01-16,BankSecure,"Addresses, Credit Card Info",https://securebreach.org
+user69@example.com,User 69,2015-09-19,FastShopping,"Emails, Usernames",https://securebreach.org
+user70@example.com,User 70,2021-08-12,OnlineEdu,Passwords,https://dataexposure.com
+user71@example.com,User 71,2017-03-22,BankSecure,Phone Numbers,https://leaksource.info
+user72@example.com,User 72,2018-11-06,SocialMediaX,"Credit Card Info, Personal Information",https://dataexposure.com
+user73@example.com,User 73,2018-06-17,CryptoEx,Passwords,https://leaksource.info
+user74@example.com,User 74,2015-10-21,DataHub,"Phone Numbers, Addresses, Credit Card Info",https://leaksource.info
+user75@example.com,User 75,2022-01-10,BankSecure,"Credit Card Info, Addresses",https://breachdata.example.com
+user76@example.com,User 76,2016-08-23,EmailPro,"Addresses, Emails, Credit Card Info",https://securebreach.org
+user77@example.com,User 77,2020-12-12,FastShopping,Credit Card Info,https://cyberalert.net
+user78@example.com,User 78,2016-05-10,BankSecure,"Passwords, Addresses, Emails",https://leaksource.info
+user79@example.com,User 79,2018-01-07,CryptoEx,"Passwords, Phone Numbers, Addresses",https://leaksource.info
+user80@example.com,User 80,2016-07-04,EmailPro,"Phone Numbers, Credit Card Info",https://dataexposure.com
+user81@example.com,User 81,2022-10-26,EmailPro,"Personal Information, Addresses, Phone Numbers",https://cyberalert.net
+user82@example.com,User 82,2017-06-19,OnlineEdu,Addresses,https://dataexposure.com
+user83@example.com,User 83,2018-07-18,CryptoEx,"Usernames, Emails",https://cyberalert.net
+user84@example.com,User 84,2017-03-17,FastShopping,Emails,https://dataexposure.com
+user85@example.com,User 85,2023-06-13,CryptoEx,Emails,https://dataexposure.com
+user86@example.com,User 86,2022-07-04,OnlineEdu,Phone Numbers,https://leaksource.info
+user87@example.com,User 87,2021-05-14,WebPortal,"Passwords, Usernames",https://securebreach.org
+user88@example.com,User 88,2020-10-30,CryptoEx,"Emails, Credit Card Info",https://securebreach.org
+user89@example.com,User 89,2015-04-21,HealthSecure,"Credit Card Info, Addresses",https://breachdata.example.com
+user90@example.com,User 90,2021-11-20,HealthSecure,"Passwords, Phone Numbers, Personal Information",https://cyberalert.net
+user91@example.com,User 91,2017-12-08,DataHub,Addresses,https://securebreach.org
+user92@example.com,User 92,2017-09-17,BankSecure,Credit Card Info,https://breachdata.example.com
+user93@example.com,User 93,2018-03-26,DataHub,"Addresses, Personal Information",https://cyberalert.net
+user94@example.com,User 94,2020-01-07,CryptoEx,"Credit Card Info, Passwords, Emails",https://breachdata.example.com
+user95@example.com,User 95,2021-12-14,FinancePlus,"Usernames, Passwords, Credit Card Info",https://securebreach.org
+user96@example.com,User 96,2017-03-04,FinancePlus,"Passwords, Credit Card Info",https://breachdata.example.com
+user97@example.com,User 97,2018-02-05,CryptoEx,"Passwords, Usernames, Phone Numbers",https://breachdata.example.com
+user98@example.com,User 98,2017-08-24,CryptoEx,"Emails, Usernames, Credit Card Info",https://securebreach.org
+user99@example.com,User 99,2019-05-01,BankSecure,Usernames,https://securebreach.org
+user100@example.com,User 100,2015-01-12,FinancePlus,"Credit Card Info, Passwords",https://dataexposure.com
+user101@example.com,User 101,2016-11-27,FastShopping,"Emails, Personal Information, Phone Numbers",https://leaksource.info
+user102@example.com,User 102,2019-12-17,CryptoEx,"Credit Card Info, Emails, Phone Numbers",https://dataexposure.com
+user103@example.com,User 103,2019-11-13,SocialMediaX,"Phone Numbers, Addresses",https://breachdata.example.com
+user104@example.com,User 104,2017-11-10,OnlineEdu,"Emails, Passwords",https://dataexposure.com
+user105@example.com,User 105,2015-12-14,BankSecure,Phone Numbers,https://leaksource.info
+user106@example.com,User 106,2020-08-27,BankSecure,"Usernames, Credit Card Info, Phone Numbers",https://securebreach.org
+user107@example.com,User 107,2018-10-04,EmailPro,Credit Card Info,https://breachdata.example.com
+user108@example.com,User 108,2022-02-12,OnlineEdu,Personal Information,https://dataexposure.com
+user109@example.com,User 109,2019-06-03,EmailPro,Addresses,https://dataexposure.com
+user110@example.com,User 110,2021-06-07,BankSecure,"Passwords, Emails, Credit Card Info",https://breachdata.example.com
+user111@example.com,User 111,2020-08-17,WebPortal,Credit Card Info,https://securebreach.org
+user112@example.com,User 112,2019-04-28,WebPortal,Phone Numbers,https://cyberalert.net
+user113@example.com,User 113,2021-06-27,EmailPro,Emails,https://dataexposure.com
+user114@example.com,User 114,2018-03-28,SocialMediaX,"Usernames, Phone Numbers, Passwords",https://breachdata.example.com
+user115@example.com,User 115,2022-09-10,EmailPro,"Personal Information, Emails",https://securebreach.org
+user116@example.com,User 116,2021-12-06,FastShopping,"Usernames, Credit Card Info, Passwords",https://securebreach.org
+user117@example.com,User 117,2023-01-29,SocialMediaX,"Emails, Addresses",https://dataexposure.com
+user118@example.com,User 118,2018-04-12,FastShopping,Credit Card Info,https://securebreach.org
+user119@example.com,User 119,2016-07-24,WebPortal,"Credit Card Info, Passwords",https://cyberalert.net
+user120@example.com,User 120,2017-05-22,CryptoEx,"Usernames, Phone Numbers, Personal Information",https://cyberalert.net
+user121@example.com,User 121,2016-05-18,FinancePlus,Phone Numbers,https://dataexposure.com
+user122@example.com,User 122,2021-07-17,BankSecure,"Passwords, Phone Numbers",https://dataexposure.com
+user123@example.com,User 123,2022-12-04,CryptoEx,Passwords,https://leaksource.info
+user124@example.com,User 124,2017-04-03,FastShopping,Passwords,https://breachdata.example.com
+user125@example.com,User 125,2018-09-18,BankSecure,"Passwords, Phone Numbers, Emails",https://cyberalert.net
+user126@example.com,User 126,2021-10-22,HealthSecure,Usernames,https://securebreach.org
+user127@example.com,User 127,2023-09-04,HealthSecure,"Emails, Usernames, Passwords",https://cyberalert.net
+user128@example.com,User 128,2022-05-26,HealthSecure,"Emails, Usernames",https://breachdata.example.com
+user129@example.com,User 129,2020-05-23,DataHub,Usernames,https://leaksource.info
+user130@example.com,User 130,2021-12-29,HealthSecure,"Personal Information, Credit Card Info, Usernames",https://cyberalert.net
+user131@example.com,User 131,2022-03-11,CryptoEx,"Addresses, Phone Numbers, Personal Information",https://leaksource.info
+user132@example.com,User 132,2019-12-24,FastShopping,Addresses,https://cyberalert.net
+user133@example.com,User 133,2015-05-04,DataHub,"Emails, Personal Information, Addresses",https://dataexposure.com
+user134@example.com,User 134,2022-10-20,SocialMediaX,"Passwords, Emails",https://cyberalert.net
+user135@example.com,User 135,2019-11-22,EmailPro,"Phone Numbers, Personal Information",https://securebreach.org
+user136@example.com,User 136,2016-01-15,EmailPro,"Phone Numbers, Addresses",https://securebreach.org
+user137@example.com,User 137,2020-01-25,SocialMediaX,"Passwords, Personal Information, Credit Card Info",https://leaksource.info
+user138@example.com,User 138,2022-09-04,CryptoEx,"Phone Numbers, Passwords",https://breachdata.example.com
+user139@example.com,User 139,2018-01-25,HealthSecure,Emails,https://dataexposure.com
+user140@example.com,User 140,2020-09-20,CryptoEx,"Personal Information, Passwords",https://dataexposure.com
+user141@example.com,User 141,2015-01-21,FinancePlus,"Personal Information, Phone Numbers",https://securebreach.org
+user142@example.com,User 142,2020-08-02,BankSecure,Phone Numbers,https://leaksource.info
+user143@example.com,User 143,2018-07-05,SocialMediaX,"Passwords, Phone Numbers, Addresses",https://securebreach.org
+user144@example.com,User 144,2016-07-20,WebPortal,"Credit Card Info, Personal Information",https://cyberalert.net
+user145@example.com,User 145,2017-06-18,SocialMediaX,"Personal Information, Addresses",https://dataexposure.com
+user146@example.com,User 146,2019-07-12,WebPortal,Credit Card Info,https://breachdata.example.com
+user147@example.com,User 147,2017-09-22,WebPortal,"Credit Card Info, Emails, Passwords",https://dataexposure.com
+user148@example.com,User 148,2019-08-07,HealthSecure,Addresses,https://leaksource.info
+user149@example.com,User 149,2016-09-19,WebPortal,Emails,https://breachdata.example.com
+user150@example.com,User 150,2017-07-13,FastShopping,Personal Information,https://dataexposure.com
+user151@example.com,User 151,2020-09-29,HealthSecure,"Usernames, Addresses",https://breachdata.example.com
+user152@example.com,User 152,2023-06-17,BankSecure,"Phone Numbers, Emails",https://securebreach.org
+user153@example.com,User 153,2021-04-05,DataHub,"Addresses, Credit Card Info, Emails",https://leaksource.info
+user154@example.com,User 154,2015-04-25,CryptoEx,"Personal Information, Addresses, Usernames",https://dataexposure.com
+user155@example.com,User 155,2017-04-29,CryptoEx,"Personal Information, Usernames",https://leaksource.info
+user156@example.com,User 156,2018-11-20,FinancePlus,"Passwords, Addresses, Phone Numbers",https://leaksource.info
+user157@example.com,User 157,2020-02-16,CryptoEx,"Phone Numbers, Passwords",https://securebreach.org
+user158@example.com,User 158,2023-09-08,DataHub,Addresses,https://cyberalert.net
+user159@example.com,User 159,2020-11-13,FinancePlus,Passwords,https://breachdata.example.com
+user160@example.com,User 160,2017-03-11,FinancePlus,"Phone Numbers, Emails, Passwords",https://dataexposure.com
+user161@example.com,User 161,2018-09-16,FinancePlus,"Passwords, Usernames, Personal Information",https://breachdata.example.com
+user162@example.com,User 162,2017-09-26,BankSecure,"Usernames, Personal Information",https://securebreach.org
+user163@example.com,User 163,2021-07-20,BankSecure,"Passwords, Addresses, Credit Card Info",https://cyberalert.net
+user164@example.com,User 164,2021-03-01,EmailPro,"Addresses, Phone Numbers",https://leaksource.info
+user165@example.com,User 165,2020-07-14,EmailPro,"Phone Numbers, Credit Card Info, Usernames",https://cyberalert.net
+user166@example.com,User 166,2017-07-05,BankSecure,Passwords,https://cyberalert.net
+user167@example.com,User 167,2017-02-28,SocialMediaX,Usernames,https://breachdata.example.com
+user168@example.com,User 168,2015-04-19,DataHub,"Phone Numbers, Usernames",https://dataexposure.com
+user169@example.com,User 169,2016-01-23,DataHub,"Addresses, Emails, Phone Numbers",https://dataexposure.com
+user170@example.com,User 170,2018-08-10,CryptoEx,"Addresses, Usernames, Emails",https://dataexposure.com
+user171@example.com,User 171,2021-03-09,DataHub,"Addresses, Personal Information",https://breachdata.example.com
+user172@example.com,User 172,2016-08-16,BankSecure,Phone Numbers,https://dataexposure.com
+user173@example.com,User 173,2019-02-26,SocialMediaX,"Emails, Passwords, Personal Information",https://breachdata.example.com
+user174@example.com,User 174,2019-03-16,EmailPro,"Personal Information, Passwords, Emails",https://securebreach.org
+user175@example.com,User 175,2017-10-20,BankSecure,"Usernames, Emails, Credit Card Info",https://cyberalert.net
+user176@example.com,User 176,2016-06-20,CryptoEx,Addresses,https://cyberalert.net
+user177@example.com,User 177,2022-04-26,OnlineEdu,Addresses,https://dataexposure.com
+user178@example.com,User 178,2016-07-14,FinancePlus,"Phone Numbers, Addresses",https://leaksource.info
+user179@example.com,User 179,2015-06-11,DataHub,Phone Numbers,https://dataexposure.com
+user180@example.com,User 180,2018-01-12,FastShopping,"Phone Numbers, Credit Card Info",https://breachdata.example.com
+user181@example.com,User 181,2017-06-09,DataHub,"Usernames, Emails",https://leaksource.info
+user182@example.com,User 182,2015-07-04,HealthSecure,"Addresses, Emails, Passwords",https://securebreach.org
+user183@example.com,User 183,2018-09-05,BankSecure,"Credit Card Info, Emails",https://dataexposure.com
+user184@example.com,User 184,2015-05-26,SocialMediaX,Emails,https://breachdata.example.com
+user185@example.com,User 185,2017-04-27,EmailPro,"Personal Information, Usernames",https://breachdata.example.com
+user186@example.com,User 186,2021-10-15,BankSecure,Personal Information,https://dataexposure.com
+user187@example.com,User 187,2015-12-26,CryptoEx,Credit Card Info,https://cyberalert.net
+user188@example.com,User 188,2017-12-02,CryptoEx,Passwords,https://leaksource.info
+user189@example.com,User 189,2023-06-22,FinancePlus,"Usernames, Emails, Credit Card Info",https://leaksource.info
+user190@example.com,User 190,2022-08-30,FinancePlus,Personal Information,https://dataexposure.com
+user191@example.com,User 191,2017-11-11,EmailPro,"Passwords, Emails",https://leaksource.info
+user192@example.com,User 192,2022-09-09,CryptoEx,"Phone Numbers, Credit Card Info, Addresses",https://dataexposure.com
+user193@example.com,User 193,2022-04-22,CryptoEx,"Addresses, Phone Numbers, Usernames",https://leaksource.info
+user194@example.com,User 194,2021-02-07,DataHub,Passwords,https://securebreach.org
+user195@example.com,User 195,2021-01-24,DataHub,"Credit Card Info, Usernames, Personal Information",https://breachdata.example.com
+user196@example.com,User 196,2015-02-04,HealthSecure,"Emails, Credit Card Info, Passwords",https://breachdata.example.com
+user197@example.com,User 197,2018-06-25,DataHub,"Personal Information, Usernames, Emails",https://dataexposure.com
+user198@example.com,User 198,2017-09-24,BankSecure,"Addresses, Credit Card Info",https://dataexposure.com
+user199@example.com,User 199,2016-08-26,SocialMediaX,Credit Card Info,https://leaksource.info
+user200@example.com,User 200,2021-12-06,SocialMediaX,"Credit Card Info, Passwords",https://securebreach.org
+user201@example.com,User 201,2019-11-26,DataHub,"Emails, Passwords",https://leaksource.info
+user202@example.com,User 202,2020-09-24,HealthSecure,"Credit Card Info, Addresses, Usernames",https://breachdata.example.com
+user203@example.com,User 203,2015-06-01,FinancePlus,"Phone Numbers, Personal Information, Addresses",https://breachdata.example.com
+user204@example.com,User 204,2019-02-07,HealthSecure,Credit Card Info,https://breachdata.example.com
+user205@example.com,User 205,2017-06-11,FastShopping,"Personal Information, Emails",https://securebreach.org
+user206@example.com,User 206,2016-04-06,OnlineEdu,"Usernames, Addresses",https://cyberalert.net
+user207@example.com,User 207,2017-08-19,EmailPro,"Phone Numbers, Addresses",https://cyberalert.net
+user208@example.com,User 208,2016-06-26,FastShopping,Addresses,https://securebreach.org
+user209@example.com,User 209,2018-04-16,HealthSecure,"Phone Numbers, Passwords, Personal Information",https://cyberalert.net
+user210@example.com,User 210,2023-05-14,SocialMediaX,"Credit Card Info, Phone Numbers",https://dataexposure.com
+user211@example.com,User 211,2020-04-20,FastShopping,Personal Information,https://leaksource.info
+user212@example.com,User 212,2022-12-08,BankSecure,"Credit Card Info, Usernames, Addresses",https://breachdata.example.com
+user213@example.com,User 213,2016-01-27,FastShopping,"Passwords, Credit Card Info",https://dataexposure.com
+user214@example.com,User 214,2017-02-27,OnlineEdu,Emails,https://securebreach.org
+user215@example.com,User 215,2023-02-26,FastShopping,"Passwords, Emails, Personal Information",https://dataexposure.com
+user216@example.com,User 216,2021-04-11,BankSecure,"Passwords, Usernames",https://dataexposure.com
+user217@example.com,User 217,2021-08-06,HealthSecure,Usernames,https://securebreach.org
+user218@example.com,User 218,2018-08-07,FinancePlus,"Emails, Addresses",https://breachdata.example.com
+user219@example.com,User 219,2015-12-12,DataHub,Passwords,https://securebreach.org
+user220@example.com,User 220,2018-08-12,FastShopping,Addresses,https://securebreach.org
+user221@example.com,User 221,2019-09-29,EmailPro,"Phone Numbers, Passwords, Credit Card Info",https://securebreach.org
+user222@example.com,User 222,2021-12-12,EmailPro,"Personal Information, Usernames, Credit Card Info",https://dataexposure.com
+user223@example.com,User 223,2018-05-08,CryptoEx,Passwords,https://breachdata.example.com
+user224@example.com,User 224,2019-09-07,EmailPro,Personal Information,https://dataexposure.com
+user225@example.com,User 225,2023-04-29,DataHub,"Passwords, Emails, Credit Card Info",https://breachdata.example.com
+user226@example.com,User 226,2023-02-26,FinancePlus,Addresses,https://breachdata.example.com
+user227@example.com,User 227,2015-07-13,EmailPro,"Phone Numbers, Credit Card Info, Addresses",https://breachdata.example.com
+user228@example.com,User 228,2023-03-19,OnlineEdu,"Addresses, Personal Information",https://breachdata.example.com
+user229@example.com,User 229,2022-07-14,BankSecure,Addresses,https://breachdata.example.com
+user230@example.com,User 230,2023-04-26,HealthSecure,"Addresses, Usernames, Personal Information",https://breachdata.example.com
+user231@example.com,User 231,2021-08-20,FinancePlus,"Passwords, Emails",https://breachdata.example.com
+user232@example.com,User 232,2015-08-16,CryptoEx,"Addresses, Credit Card Info, Personal Information",https://leaksource.info
+user233@example.com,User 233,2021-06-18,DataHub,"Credit Card Info, Addresses",https://securebreach.org
+user234@example.com,User 234,2015-03-14,FinancePlus,"Addresses, Passwords, Phone Numbers",https://securebreach.org
+user235@example.com,User 235,2022-10-17,FinancePlus,Usernames,https://breachdata.example.com
+user236@example.com,User 236,2023-07-11,EmailPro,"Personal Information, Usernames, Emails",https://breachdata.example.com
+user237@example.com,User 237,2018-03-06,WebPortal,"Addresses, Usernames, Phone Numbers",https://securebreach.org
+user238@example.com,User 238,2016-04-24,OnlineEdu,Usernames,https://cyberalert.net
+user239@example.com,User 239,2020-10-17,WebPortal,Usernames,https://cyberalert.net
+user240@example.com,User 240,2018-02-19,WebPortal,"Usernames, Credit Card Info, Emails",https://cyberalert.net
+user241@example.com,User 241,2017-10-20,OnlineEdu,"Phone Numbers, Personal Information",https://securebreach.org
+user242@example.com,User 242,2015-01-08,CryptoEx,Addresses,https://dataexposure.com
+user243@example.com,User 243,2019-12-11,CryptoEx,Usernames,https://breachdata.example.com
+user244@example.com,User 244,2015-09-19,SocialMediaX,"Credit Card Info, Addresses",https://cyberalert.net
+user245@example.com,User 245,2018-09-23,EmailPro,"Personal Information, Addresses, Credit Card Info",https://leaksource.info
+user246@example.com,User 246,2017-10-01,WebPortal,Credit Card Info,https://cyberalert.net
+user247@example.com,User 247,2022-07-18,EmailPro,"Phone Numbers, Passwords",https://securebreach.org
+user248@example.com,User 248,2017-09-12,HealthSecure,Passwords,https://leaksource.info
+user249@example.com,User 249,2021-06-15,EmailPro,"Credit Card Info, Usernames, Emails",https://leaksource.info
+user250@example.com,User 250,2022-05-13,OnlineEdu,"Emails, Addresses, Phone Numbers",https://breachdata.example.com
